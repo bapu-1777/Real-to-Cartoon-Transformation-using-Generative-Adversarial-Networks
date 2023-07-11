@@ -1,7 +1,5 @@
 # Real-to-Cartoon-Transformation-using-Generative-Adversarial-Networks
 
-# Real-to-Cartoon Transformation using Generative Adversarial Networks
-
 This project is part of the course CSE 6367: Computer Vision (Section 001).
 
 **Contributors:**
